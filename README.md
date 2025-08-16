@@ -1,4 +1,4 @@
-# Email Automation App
+# Bulk Email Sender
 
 ![Email Automation App Screenshot](https://i.postimg.cc/1RDrJ4rV/Screenshot-2025-08-17-060026.png)
 
